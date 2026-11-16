@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Contact: 
+ryan.daly@combilift.com
+083-033-4112
+
 <!--
 **ryan-daly-combi/ryan-daly-combi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
